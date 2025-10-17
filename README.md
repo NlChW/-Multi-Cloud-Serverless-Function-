@@ -110,6 +110,9 @@ Upload the recording and place a **shareable link** in your README.
 - Deployment commands or steps you executed.
 - Screenshots showing functionality that have your custom URLs, along with outputs
 - Public endpoint URLs (+ notes on auth: unauthenticated vs key‑based).
+  Google cloud: Url: https://glucose-triage-444069239935.us-east1.run.app
+  image: <img width="1248" height="733" alt="Screenshot 2025-10-17 at 3 22 51 PM" src="https://github.com/user-attachments/assets/ac0957e2-772d-483e-bd83-d3c8882d8a70" />
+
 - Example `requests` invocations that **work as shown** in your video.
 - Short comparison paragraph of the two clouds.
 
